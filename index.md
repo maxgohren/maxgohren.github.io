@@ -27,7 +27,9 @@
           [ new Date(2013, 9, 30), 38447 ]
         ]);
 
+
        var chart = new google.visualization.Calendar(document.getElementById('calendar_basic'));
+
 
        var options = {
          title: "Red Sox Attendance",
