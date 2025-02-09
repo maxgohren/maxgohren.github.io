@@ -1,0 +1,15 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+@font-face {
+	font-family: "JetBrains Mono";
+	src: url("../assets/fonts/JetBrainsMono-Medium.ttf");
+}
