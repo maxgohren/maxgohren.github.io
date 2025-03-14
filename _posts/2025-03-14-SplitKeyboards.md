@@ -73,8 +73,10 @@ However, a word of caution: triple check everything! This was my
 first PCB order ever, and I was happy enough to be able to check the files in
 KiCad and then see the same 3D model show up on JLCPCB's website. The problem
 was that I accidentally reviewed, submitted and ordered the PCB for the Lily58 and not the Lily58
-Pro. The difference? No support for hotswap sockets. Not knowing this until it
-arrived, the only loss was a $10 bag of sockets that I may use on another build
+Pro. The difference? No support for hotswap sockets, which allow me to
+plug-and-play different keyboard switches whenever I want. Without them I had to 
+solder my switches directly to the board, which is not a big deal. Not knowing this 
+until it arrived, the only loss was a $10 bag of sockets that I may use on another build
 anyways. Not a bad way to learn a valuable lesson!
 
 The last piece of the puzzle was the case. This was the easiest part but took
