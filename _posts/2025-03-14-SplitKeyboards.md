@@ -9,7 +9,7 @@ description: Quite the rabbit hole to fall down.
 Do you lube your stabs with Krytox 205g0 or Tribosys 3203? Do you like a clicky
 switch or a thocky one? Do you think Colemak Dhm would be nicer on the Ergodox
 or the Iris? 
-![Sunkissed](/assets/img/keyboard/sunkissed.png){: width="600" height="600" }
+![Sunkissed](/assets/img/keebs/sunkissed.png){: width="600" height="600" }
 
 These are some of the mind-boggling questions you may encounter if you stumble
 upon the front page of [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/). As a hobby
@@ -95,8 +95,8 @@ get the hang of it in no time.
 
 # The Finished Product
 A picture (or two) is worth a thousand (two thousand?) words.
-![Top View](/assets/img/keyboard/topview.png){: width="600" height="600" }
-![Underside](/assets/img/keyboard/underside.png){: width="600" height="600" }
+![Top View](/assets/img/keebs/topview.png){: width="600" height="600" }
+![Underside](/assets/img/keebs/underside.png){: width="600" height="600" }
 I flipped the thumb cluster keys upside down and it is so comfortable. Like
 a glove.
 Animated Firmware: [r/olkb](https://www.reddit.com/r/olkb/comments/w5dm3v/sofle_v2_with_custom_oled_graphics/)
