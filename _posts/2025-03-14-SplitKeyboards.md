@@ -97,9 +97,10 @@ get the hang of it in no time.
 A picture (or two) is worth a thousand (two thousand?) words.
 ![Top View](/assets/img/keebs/topview.png){: width="600" height="600" }
 ![Underside](/assets/img/keebs/underside.png){: width="600" height="600" }
-I flipped the thumb cluster keys upside down and it is so comfortable. Like
-a glove.
-Animated Firmware: [r/olkb](https://www.reddit.com/r/olkb/comments/w5dm3v/sofle_v2_with_custom_oled_graphics/)
+
+_I flipped the thumb cluster keys upside down and it is so comfortable. Fits like
+a glove, and contributes to the rag-tag look.
+Animated Firmware: [r/olkb](https://www.reddit.com/r/olkb/comments/w5dm3v/sofle_v2_with_custom_oled_graphics/)_
 
 # The Learning Curve
 lucky enough to have a slow week at work and employed the jump-in-the-deep-end approach. I used my new
