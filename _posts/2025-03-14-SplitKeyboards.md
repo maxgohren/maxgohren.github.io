@@ -96,11 +96,11 @@ get the hang of it in no time.
 # The Finished Product
 A picture (or two) is worth a thousand (two thousand?) words.
 ![Top View](/assets/img/keebs/topview.png){: width="600" height="600" }
-![Underside](/assets/img/keebs/underside.png){: width="600" height="600" }
-
-_I flipped the thumb cluster keys upside down and it is so comfortable. Fits like
+  _I flipped the thumb cluster keys upside down and it is so comfortable. Fits like
 a glove, and contributes to the rag-tag look.
 Animated Firmware: [r/olkb](https://www.reddit.com/r/olkb/comments/w5dm3v/sofle_v2_with_custom_oled_graphics/)_
+![Underside](/assets/img/keebs/underside.png){: width="600" height="600" }
+_The clear acrylic shows off the soldering work nicely._
 
 # The Learning Curve
 lucky enough to have a slow week at work and employed the jump-in-the-deep-end approach. I used my new
