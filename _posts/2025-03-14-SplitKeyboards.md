@@ -103,7 +103,7 @@ Animated Firmware: [r/olkb](https://www.reddit.com/r/olkb/comments/w5dm3v/sofle_
 _The clear acrylic shows off the soldering work nicely._
 
 # The Learning Curve
-lucky enough to have a slow week at work and employed the jump-in-the-deep-end approach. I used my new
+Lucky enough to have a slow week at work and employed the jump-in-the-deep-end approach. I used my new
 keyboard every day for about a week to just do typing practice, and the most
 barebones of command-line Linux navigation. The most practice was spent on
 stubborn bottom-row keys like Z, X and C, and the crossover keys like Y and
