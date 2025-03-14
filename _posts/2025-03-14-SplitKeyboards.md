@@ -131,10 +131,10 @@ ToolBox][qmk], a great visual editor for keyboard layouts using the QMK firmware
 If you're reading this, go for it! Thanks for reading!
 
 
-[qmk]: (https://github.com/qmk/qmk_toolbox)
+[qmk]: https://github.com/qmk/qmk_toolbox
 
-[jlcpcb]: (https://jlcpcb.com/resources/6-layer-pcbs?from=VBS_Free6layerPCBs&utm_source=bing&utm_medium=cpc&utm_campaign=422890460&utm_content=&utm_term=e_jlcpcb&adgroupid=1345803553234414&msclkid=4ee0e64176dd187fd0e481951c866224)
+[jlcpcb]: https://jlcpcb.com/resources/6-layer-pcbs?from=VBS_Free6layerPCBs&utm_source=bing&utm_medium=cpc&utm_campaign=422890460&utm_content=&utm_term=e_jlcpcb&adgroupid=1345803553234414&msclkid=4ee0e64176dd187fd0e481951c866224
 
-[buildguide]: (https://github.com/kata0510/Lily58/blob/master/Pro/Doc/buildguide_en.md)
+[buildguide]: https://github.com/kata0510/Lily58/blob/master/Pro/Doc/buildguide_en.md
 
-[AliExpress]: (https://www.aliexpress.com/item/1005007907276743.html?spm=a2g0o.productlist.main.3.67db1b8dMinwjO&algo_pvid=d2338c31-8dc3-4416-bd63-6536e3d9b785&algo_exp_id=d2338c31-8dc3-4416-bd63-6536e3d9b785-1&pdp_ext_f=%7B%22order%22%3A%22112%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2141.24%2119.26%21%21%2127.92%2113.04%21%402103277f17419738603145949e4cbf%2112000042794156474%21sea%21CA%210%21ABX&curPageLogUid=6GNd0jXx2L2N&utparam-url=scene%3Asearch%7Cquery_from%3A)
+[AliExpress]: https://www.aliexpress.com/item/1005007907276743.html?spm=a2g0o.productlist.main.3.67db1b8dMinwjO&algo_pvid=d2338c31-8dc3-4416-bd63-6536e3d9b785&algo_exp_id=d2338c31-8dc3-4416-bd63-6536e3d9b785-1&pdp_ext_f=%7B%22order%22%3A%22112%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2141.24%2119.26%21%21%2127.92%2113.04%21%402103277f17419738603145949e4cbf%2112000042794156474%21sea%21CA%210%21ABX&curPageLogUid=6GNd0jXx2L2N&utparam-url=scene%3Asearch%7Cquery_from%3A
